@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
-<h3 align="center">Talented and enthusiastic engineer skilled in both software and hardware engineering, with good analytical, design and problem solving capabilities. Highly efficient with good eye for detail and with business experience in IT both in Europe and Asia. A quick learner who can easily absorb new ideas. I like a job done. There is nothing as satisfying as a solved problem.  Without wasting time or resources on something that is useless. I like projects that challenge my analytical and design skills, let me grow to my full potential. The more interesting the problem is the more efficient I become.</h3>
+<h3 align="center">Talented and enthusiastic engineer skilled in both software and hardware engineering, with good analytical, design and problem solving capabilities. Highly efficient with good eye for detail and with business experience in IT both in Europe and Asia. A quick learner who can easily absorb new ideas.</h3>
+<h3 align="center">I like a job done. There is nothing as satisfying as a solved problem.  Without wasting time or resources on something that is useless. I like projects that challenge my analytical and design skills, let me grow to my full potential. The more interesting the problem is the more efficient I become.</h3>
 
 - 🔭 I’m currently working on [ChronoShards](https://github.com/Sagerro01/ChronoShards)
 
